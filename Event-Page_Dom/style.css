@@ -1,0 +1,14 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(155, 155, 193);
+}
+#head{
+   text-align: center;
+}
+#form{
+    margin: 14px;
+    padding: 35px;
+   justify-content: center;
+    max-width: 500px;
+}
